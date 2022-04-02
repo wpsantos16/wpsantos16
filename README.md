@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @wpsantos16
+- I'm currently a primary teacher, but passionate for technologies
 - 👀 I’m interested in buses and learning (education)
 - 🌱 I’m currently learning HTML, CSS and JS
 - 📫 Reach me on Instagram @wpsantos16
